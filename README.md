@@ -15,3 +15,7 @@ training data and then applying different
 machine learning models and classifiers to
 complete the scan,this will help predict which
 people are most likely to survive.
+
+
+# Contact
+Please send emails to dhruvilgorasiya27@gmail.com
